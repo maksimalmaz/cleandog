@@ -1,0 +1,25 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "Museo Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("subset-MuseoSansCyrl-300.woff2") format("woff2"), url("subset-MuseoSansCyrl-300.woff") format("woff"), url("subset-MuseoSansCyrl-300.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Museo Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("subset-MuseoSansCyrl-500.woff2") format("woff2"), url("subset-MuseoSansCyrl-500.woff") format("woff"), url("subset-MuseoSansCyrl-500.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Museo Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("subset-MuseoSansCyrl-700.woff2") format("woff2"), url("subset-MuseoSansCyrl-700.woff") format("woff"), url("subset-MuseoSansCyrl-700.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Museo Sans";
+  font-style: normal;
+  font-weight: 900;
+  src: url("subset-MuseoSansCyrl-900.woff2") format("woff2"), url("subset-MuseoSansCyrl-900.woff") format("woff"), url("subset-MuseoSansCyrl-900.ttf") format("truetype");
+}
